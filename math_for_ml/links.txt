@@ -1,2 +1,5 @@
 1. Graphical viewing of lines 
 https://www.desmos.com/calculator
+
+2. Perceptron Learning Algorithm
+https://karthikvedula.com/2024/01/05/visualizing-the-perceptron-learning-algorithm/
